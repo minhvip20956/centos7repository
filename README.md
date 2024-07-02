@@ -1,5 +1,9 @@
 http://centos7mirrorslist.bnix.ovh/base.html
+</br>
 http://centos7mirrorslist.bnix.ovh/updates.html
+</br>
 http://centos7mirrorslist.bnix.ovh/extras.html
+</br>
 http://centos7mirrorslist.bnix.ovh/centosplus.html
+</br>
 http://centos7mirrorslist.bnix.ovh/epel.html
