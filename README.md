@@ -10,5 +10,5 @@ ONLY RUN ON CENTOS 7
 ```
 rm -vrf /etc/yum.repos.d/*;\
 cd /etc/yum.repos.d/;\
-curl -o CentOS-Base.repo http://centos7mirrorslist.bnix.ovh/
+curl -o CentOS-Base.repo http://centos7mirrorslist.bnix.ovh/CentOS-Base.repo
 ```
