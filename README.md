@@ -5,5 +5,5 @@ ONLY RUN ON CENTOS 7
 //  
 ```
 cd /etc/yum.repos.d/;\
-curl -o CentOS-Base.repo http://centos7mirrorslist.bnix.ovh/CentOS-Base.repo
+curl http://centos7mirrorslist.bnix.ovh/CentOS-Base.repo --output /etc/yum.repos.d/CentOS-Base.repo
 ```
