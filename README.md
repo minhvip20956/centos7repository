@@ -8,3 +8,12 @@ curl http://centos7mirrorslist.bnix.ovh/CentOS-Base.repo -o /etc/yum.repos.d/Cen
 yum clean all;\
 yum update;\
 ```
+
+//
+FIX cho Virtualizor KVM
+//  
+```
+curl http://centos7mirrorslist.bnix.ovh/CentOS-QEMU-EV.repo -o /etc/yum.repos.d/CentOS-QEMU-EV.repo;\
+yum clean all;\
+yum update;\
+```
