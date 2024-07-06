@@ -10,7 +10,7 @@ yum update;\
 ```
 
 //
-FIX cho Virtualizor KVM
+FIX cho Virtualizor CentOS7 Mode KVM
 //  
 ```
 curl http://centos7mirrorslist.bnix.ovh/CentOS-QEMU-EV.repo -o /etc/yum.repos.d/CentOS-QEMU-EV.repo;\
